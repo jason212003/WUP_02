@@ -75,3 +75,5 @@ The chances of getting the result that we got which was .000000003405 is a small
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Today we created box plot and we used chat GPT to help us make the box plot. we also commented on the box plot and the charts we got from chat gpt. we also learned how to read the Ttest result ans explain it in simple terms that anyone can also understand.
